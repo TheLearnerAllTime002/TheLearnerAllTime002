@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Arjun Mitra (TheLearnerAllTime002) 👋</h1>
+<h1 align="center">Hi, I'm Arjun Mitra 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineering+Student+at+STCET;Web+Developer;IEEE+Event+Organizer;GATE+2026+EC+Aspirant&center=true&width=600" />
 </p>

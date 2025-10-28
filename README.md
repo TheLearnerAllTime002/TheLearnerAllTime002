@@ -5,7 +5,7 @@
 
 <!-- 🐍 GitHub Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TheLearnerAllTime002/TheLearnerAllTime002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <!-- 🏆 GitHub Trophies -->
@@ -17,7 +17,7 @@
 
 <!-- 📊 Animated GitHub Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheLearnerAllTime002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheLearnerAllTime002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheLearnerAllTime002&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
 </p>
 
@@ -29,7 +29,6 @@
 
 <!-- 💼 Recruiter Snapshot -->
 <h2 align="center">💼 Recruiter Snapshot</h2>
-
 <p align="center">
   ECE undergrad focused on building reliable, cloud-ready systems with measurable business outcomes.
 </p>
@@ -38,45 +37,42 @@
 
 <!-- 🎖️ Certifications & Learning -->
 <h3 align="center">🎖️ Certifications & Learning</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Cloud-Foundations-blue?logo=oracle&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/McKinsey-Forward%20Program-0a66c2?logo=mckinsey&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GATE-EC%20Prep-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-Foundations-blue?logo=oracle&logoColor=white&style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white&style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-Associate%20Cloud%20Engineer-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge" /><br/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-AZ--900-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
 
 <!-- 🛠️ Tech Stack -->
 <h3 align="center">🛠️ Tech Stack</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 ---
 
 <!-- 📬 Contact & Reach Out -->
 <h3 align="center">📬 Contact & Reach Out</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/arjun-mitra-9a1a85254/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arjunmitra002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-  <a href="https://thelearneralltime002.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white&style=for-the-badge" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/arjun-mitra-9a1a85254/"><br/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br/>
+  </a><br/>
+  <a href="mailto:arjunmitra002@gmail.com"><br/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /><br/>
+  </a><br/>
+  <a href="https://thelearneralltime002.github.io/"><br/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /><br/>
   </a>
 </p>
 
@@ -84,11 +80,11 @@
 
 <!-- 👀 Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheLearnerAllTime002&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=TheLearnerAllTime002&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 </p>
